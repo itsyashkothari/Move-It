@@ -1,2 +1,4 @@
-# Move-It
-Implementation of "World's Hardest Game" from scratch using just graphics.h. Submission for Final Project Class 12.
+# MoveIt
+
+Visit [yashkothari.in](https://yashkothari.in/moveit) to know more. 
+
