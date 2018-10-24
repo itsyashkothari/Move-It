@@ -1,4 +1,4 @@
 # MoveIt
 
-Visit [yashkothari.in](https://yashkothari.in/moveit) to know more. 
+Visit [yashkothari.in](https://yashkothari.in/moveit) to know more.
 
